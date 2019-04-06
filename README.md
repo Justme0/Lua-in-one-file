@@ -15,4 +15,4 @@ $ make test
 
 * Method two
 1. Download lua.c
-2. $ gcc lua.c
+2. `$ gcc lua.c`
